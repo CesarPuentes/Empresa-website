@@ -1,0 +1,9 @@
+.sidebar-navigation2 {
+  top: 940px;
+  width: 18.5%;
+  float: left;
+  height: 100%;
+  position: absolute;
+  background-color: #d84c73;
+  z-index: 10;
+}
